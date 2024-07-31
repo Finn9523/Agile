@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|c:\\users\\windows10\\source\\repos\\agileecommerce\\agileecommerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|solutionrelative:agileecommerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|c:\\users\\windows10\\source\\repos\\agileecommerce\\agileecommerce\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|solutionrelative:agileecommerce\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|c:\\users\\windows10\\source\\repos\\agileecommerce\\agileecommerce\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|solutionrelative:agileecommerce\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|c:\\users\\windows10\\source\\repos\\agileecommerce\\agileecommerce\\data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|solutionrelative:agileecommerce\\data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|c:\\users\\windows10\\source\\repos\\agileecommerce\\agileecommerce\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|solutionrelative:agileecommerce\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|c:\\users\\windows10\\source\\repos\\agileecommerce\\agileecommerce\\data\\accountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|solutionrelative:agileecommerce\\data\\accountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|c:\\users\\windows10\\source\\repos\\agileecommerce\\agileecommerce\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|solutionrelative:agileecommerce\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|c:\\users\\windows10\\source\\repos\\agileecommerce\\agileecommerce\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|solutionrelative:agileecommerce\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|c:\\users\\windows10\\source\\repos\\agileecommerce\\agileecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FFFC7-ACE9-4CA6-A5B1-682FA4B03733}|AgileEcommerce\\AgileEcommerce.csproj|solutionrelative:agileecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AgileEcommerce\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AgileEcommerce\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:27:45.131Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "AgileEcommerce\\Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "AgileEcommerce\\Views\\Accounts\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T17:23:16.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Views\\Accounts\\Register.cshtml",
+              "RelativeDocumentMoniker": "AgileEcommerce\\Views\\Accounts\\Register.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Views\\Accounts\\Register.cshtml",
+              "RelativeToolTip": "AgileEcommerce\\Views\\Accounts\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T16:48:41.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Program.cs",
+              "RelativeDocumentMoniker": "AgileEcommerce\\Program.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Program.cs",
+              "RelativeToolTip": "AgileEcommerce\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:59:56.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "AgileEcommerce\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "AgileEcommerce\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:34:21.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "AgileEcommerce\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "AgileEcommerce\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:29:28.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountContext.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Data\\AccountContext.cs",
+              "RelativeDocumentMoniker": "AgileEcommerce\\Data\\AccountContext.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Data\\AccountContext.cs",
+              "RelativeToolTip": "AgileEcommerce\\Data\\AccountContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:30:38.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Data\\User.cs",
+              "RelativeDocumentMoniker": "AgileEcommerce\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Data\\User.cs",
+              "RelativeToolTip": "AgileEcommerce\\Data\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:30:36.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Data\\Role.cs",
+              "RelativeDocumentMoniker": "AgileEcommerce\\Data\\Role.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileEcommerce\\AgileEcommerce\\Data\\Role.cs",
+              "RelativeToolTip": "AgileEcommerce\\Data\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:30:33.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
