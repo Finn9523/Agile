@@ -1,0 +1,43 @@
+﻿@model IEnumerable<AgileCommercee.Data.HangHoa>
+
+<div class="search-results">
+    @if (Model.Any())
+    {
+        <ul class="search-result-list">
+            @foreach (var product in Model)
+            {
+                <li class="search-result-item">
+                    <div class="result-image">
+                        <img height="60px" width="60px" src="~/images/Hinh/@product.Hinh" alt="@product.TenHh" class="img-fluid">
+                    </div>
+                    <div class="result-info">
+                        <h6><a href="@Url.Action("Details", "HangHoas", new { id = product.MaHh })">@product.TenHh</a></h6>
+                        <span class="item-price">$@product.DonGia</span>
+                    </div>
+                </li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>No results found.</p>
+    }
+</div>
+$(document).ready(function() {
+    $('#search-form').on('keyup', function() {
+        var query = $(this).val();
+        if (query.length > 2) {
+            $.ajax({
+                url: '@Url.Action("Search", "HangHoas")',
+                data: { query: query },
+                success: function(data) {
+                    // Chèn kết quả tìm kiếm vào vùng chứa
+                    $('#search-results-container').html(data);
+                }
+            });
+        } else {
+            // Xóa kết quả khi không có từ khóa
+            $('#search-results-container').empty();
+        }
+    });
+});
