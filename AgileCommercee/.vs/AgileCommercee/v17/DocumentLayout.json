@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\controllers\\nhacungcapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\controllers\\nhacungcapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\hanghoas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\hanghoas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\shared\\_baboonstore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\shared\\_baboonstore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\nhacungcaps\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\nhacungcaps\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\nhacungcaps\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\nhacungcaps\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\mytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\mytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\nhacungcaps\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\nhacungcaps\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\shared\\_baboonstoreafterlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\shared\\_baboonstoreafterlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\accounts\\registerad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\registerad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\accounts\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\accounts\\afterlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\afterlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\accounts\\customerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\customerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\shared\\_baboonstorecuslogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\shared\\_baboonstorecuslogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\hanghoas\\indexcus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\hanghoas\\indexcus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\hanghoas\\detailscus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\hanghoas\\detailscus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\hanghoas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\hanghoas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\models\\adminregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\models\\adminregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\data\\agilestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\data\\agilestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\loais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\loais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\loais\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\loais\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\windows10\\source\\repos\\agilecommercee\\agilecommercee\\views\\hanghoas\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\hanghoas\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_BaboonStore.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStore.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Shared\\_BaboonStore.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStore.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Shared\\_BaboonStore.cshtml",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAIMDAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T01:18:39.457Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AgileCommercee\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:41:20.149Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\HangHoas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\Delete.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\HangHoas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T08:15:15.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhaCungCapController.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Controllers\\NhaCungCapController.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\Controllers\\NhaCungCapController.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Controllers\\NhaCungCapController.cs",
+              "RelativeToolTip": "AgileCommercee\\Controllers\\NhaCungCapController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:07:31.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\Controllers\\HangHoaController.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "AgileCommercee\\Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAmwJgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:54:53.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\HangHoas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\Edit.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\HangHoas\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T07:25:52.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyTool.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\MyTool.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\MyTool.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\MyTool.cs",
+              "RelativeToolTip": "AgileCommercee\\MyTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T02:15:43.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\NhaCungCaps\\Create.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\NhaCungCaps\\Create.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\NhaCungCaps\\Create.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\NhaCungCaps\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T01:20:37.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\NhaCungCaps\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\NhaCungCaps\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\NhaCungCaps\\Edit.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\NhaCungCaps\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T07:46:05.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T10:35:36.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_BaboonStoreAfterLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStoreAfterLogin.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Shared\\_BaboonStoreAfterLogin.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStoreAfterLogin.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Shared\\_BaboonStoreAfterLogin.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAswKQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T02:20:21.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\Create.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\HangHoas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\Create.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\HangHoas\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T01:19:30.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\NhaCungCaps\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\NhaCungCaps\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\NhaCungCaps\\Index.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\NhaCungCaps\\Index.cshtml",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAswPIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T07:48:01.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterAD.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\RegisterAD.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\RegisterAD.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\RegisterAD.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Accounts\\RegisterAD.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAACYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T06:37:18.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Register.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\Register.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Register.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Accounts\\Register.cshtml",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAAAPkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T02:01:56.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Main.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Main.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\Main.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Main.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Accounts\\Main.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T02:42:42.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\CustomerLogin.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\CustomerLogin.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\CustomerLogin.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Accounts\\CustomerLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T02:43:53.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Accounts\\Login.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAKoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T06:52:57.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Edit.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Accounts\\Edit.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAALwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T07:00:40.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Accounts\\Index.cshtml",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAL0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T07:01:14.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_BaboonStoreCusLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStoreCusLogin.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Shared\\_BaboonStoreCusLogin.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStoreCusLogin.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Shared\\_BaboonStoreCusLogin.cshtml",
+              "ViewState": "AgIAALgCAAAAAAAAAAAAANQCAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T06:03:32.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AfterLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\AfterLogin.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\AfterLogin.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\AfterLogin.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Accounts\\AfterLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T06:27:18.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AgileCommercee\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:50:29.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IndexCus.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\IndexCus.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\HangHoas\\IndexCus.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\IndexCus.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\HangHoas\\IndexCus.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T06:16:58.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DetailsCus.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\DetailsCus.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\HangHoas\\DetailsCus.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\DetailsCus.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\HangHoas\\DetailsCus.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T06:13:04.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\Details.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\HangHoas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\Details.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\HangHoas\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T03:58:10.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminRegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Models\\AdminRegisterViewModel.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\Models\\AdminRegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Models\\AdminRegisterViewModel.cs",
+              "RelativeToolTip": "AgileCommercee\\Models\\AdminRegisterViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:33:48.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "AgileCommercee\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:37:04.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "AgileCommercee\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:39:49.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\appsettings.json",
+              "RelativeDocumentMoniker": "AgileCommercee\\appsettings.json",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\appsettings.json",
+              "RelativeToolTip": "AgileCommercee\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T06:38:09.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AgileStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Data\\AgileStoreContext.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\Data\\AgileStoreContext.cs",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Data\\AgileStoreContext.cs",
+              "RelativeToolTip": "AgileCommercee\\Data\\AgileStoreContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wK0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:35:21.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Loais\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Loais\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Loais\\Index.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Loais\\Index.cshtml",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAcwNMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T01:20:22.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Loais\\Create.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Loais\\Create.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\Loais\\Create.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Loais\\Create.cshtml",
+              "ViewState": "AgIAALYAAAAAAAAAAAAcwN0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T01:20:15.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\Search.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\HangHoas\\Search.cshtml",
+              "ToolTip": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\Search.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\HangHoas\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T01:20:12.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
