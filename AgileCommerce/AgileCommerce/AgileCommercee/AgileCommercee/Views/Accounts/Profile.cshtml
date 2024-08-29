@@ -1,0 +1,21 @@
+﻿@model AgileCommercee.Data.User
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Thông tin cá nhân</h2>
+
+<div>
+    <label>Tên đăng nhập:</label>
+    <span>@Model.UserName</span>
+</div>
+<div>
+    <label>Email:</label>
+    <span>@Model.Email</span>
+</div>
+<div>
+    <label>Số điện thoại:</label>
+    <span>@Model.PhoneNumber</span>
+</div>
+<a asp-action="QLTK">Chinh sua thong tin tai khoan</a>
