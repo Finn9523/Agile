@@ -1,0 +1,36 @@
+﻿@model AgileCommercee.Data.Loai
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 align="center">CATEGORY DETAILS OF: @Html.DisplayFor(Model => Model.TenLoai)</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TenLoai)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenLoai)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MoTa)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MoTa)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Hinh)
+        </dt>
+        <dd class = "col-sm-10">
+            <img width="200px" height="200px" src="~/images/Loais/@Model.Hinh" alt="@Model.TenLoai" />
+        </dd>
+    </dl>
+</div>
+<div>
+    <a button type="submit" class="btn btn-primary" asp-action="Edit" asp-route-id="@Model?.MaLoai">Edit</a> |
+    <a button type="submit" class="btn btn-primary" asp-action="Index">Back to List</a>
+</div>
