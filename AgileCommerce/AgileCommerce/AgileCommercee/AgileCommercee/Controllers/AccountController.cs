@@ -1,6 +1,7 @@
 ﻿
 using AgileCommercee.Data;
 using AgileCommercee.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
@@ -112,8 +113,46 @@ namespace AgileCommercee.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult ForgetPass(string username, string email)
         {
-            return View();
+            // Kiểm tra sự tồn tại của username và email
+            var user = _context.Users.FirstOrDefault(u => u.UserName == username && u.Email == email);
+            HttpContext.Session.SetString("resetusername", username);
+            HttpContext.Session.SetString("resetemail", email);
+            if (user != null)
+            {
+                return RedirectToAction("ResetPassword","Accounts");
+
+            }
+            else { return View(); }
+            
         }
+        public IActionResult ResetPassword()
+        {
+            var user = HttpContext.Session.GetString("resetusername");
+            var email = HttpContext.Session.GetString("resetemail");
+            var cus = _context.Users.Where(p => p.UserName == user && p.Email == email).FirstOrDefault();
+
+            var ResetUser = new ResetPasswordViewModel
+            {
+                username = user,
+                email = email,
+                NewPassword = "",
+                ConfirmPassword = ""
+            };
+            return View(ResetUser);
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult ResetPassword(ResetPasswordViewModel model)
+        {
+            var user = HttpContext.Session.GetString("resetusername");
+            var email = HttpContext.Session.GetString("resetemail");
+            var cus = _context.Users.Where(p => p.UserName == user && p.Email == email).FirstOrDefault();
+
+            cus.PasswordHash = BCrypt.Net.BCrypt.HashPassword(model.NewPassword);
+            _context.SaveChanges();
+            return View(model);
+        }
+
 
         public IActionResult Profile()
         {
