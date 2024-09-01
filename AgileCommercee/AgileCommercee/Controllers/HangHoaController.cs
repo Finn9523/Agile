@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using AgileCommercee.Models;
 
 namespace AgileCommercee.Controllers
 {
@@ -190,6 +191,62 @@ namespace AgileCommercee.Controllers
             }
             return NotFound();
         }
+
+        #region Statistic By Category
+        [HttpGet("/Statistic/ByCategory")]
+        public IActionResult StatisticByCategory()
+        {
+            var data = _context.HangHoas
+                .GroupBy(p => new
+                {
+                    MaLoaiNavigation = p.MaLoaiNavigation.TenLoai
+                })
+                .Select(g => new CategoryStatistic
+                {
+                    MaLoaiNavigation = g.Key.MaLoaiNavigation,
+                    NumOfProduct = g.Count()
+                }).ToList();
+            return View(data);
+        }
+        #endregion Statistic By Category
+
+        #region Statistic By Supplier
+        [HttpGet("/Statistic/BySupplier")]
+        public IActionResult StatisticBySupplier()
+        {
+            var data = _context.HangHoas
+                .GroupBy(p => new
+                {
+                    MaNccNavigation = p.MaNccNavigation.TenCongTy
+                })
+                .Select(g => new SupplierStatistic
+                {
+                    MaNccNavigation = g.Key.MaNccNavigation,
+                    NumOfProduct = g.Count()
+                }).ToList();
+            return View(data);
+        }
+        #endregion Statistic By Supplier
+
+        #region Statistic By Supplier & Category
+        [HttpGet("/Statistic/BySupplierCategory")]
+        public IActionResult StatisticBySupplierCategory()
+        {
+            var data = _context.HangHoas
+                .GroupBy(p => new
+                {
+                    MaLoaiNavigation = p.MaLoaiNavigation.TenLoai,
+                    MaNccNavigation = p.MaNccNavigation.TenCongTy
+                })
+                .Select(g => new SupplierCategoryStatistic
+                {
+                    MaLoaiNavigation = g.Key.MaLoaiNavigation,
+                    MaNccNavigation = g.Key.MaNccNavigation,
+                    NumOfProduct = g.Count()
+                }).ToList();
+            return View(data);
+        }
+        #endregion Statistic By Supplier & Category
     }
 }
 

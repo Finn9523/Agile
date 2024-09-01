@@ -1,4 +1,5 @@
 ﻿using AgileCommercee.Data;
+using AgileCommercee.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -134,6 +135,28 @@ namespace AgileCommercee.Controllers
             return View(supplier);
         }
         #endregion Details Supplier - Nha Cung Cap
+
+        #region Get Product By Supplier
+        [HttpGet]
+        public IActionResult GetProductBySuppliers(string mancc)
+        {
+            var data = _Context.HangHoas
+                .Where(p => p.MaNcc == mancc)
+                .Select(p => new ProductBySupplierVM
+                {
+                    HangHoaMaHh = p.MaHh,
+                    HangHoaTenHh = p.TenHh,
+                    DonGia = p.DonGia,
+                    MaLoaiNavigation = p.MaLoaiNavigation.TenLoai,
+                    MaNccNavigation = p.MaNccNavigation.TenCongTy
+                }).ToList();
+            if (data == null || !data.Any())
+            {
+                return NotFound();
+            }
+            return View(data);
+        }
+        #endregion Get Product By Supplier
     }
 
 }

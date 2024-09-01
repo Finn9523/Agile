@@ -17,159 +17,179 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AgileCommercee
 build_property.RootNamespace = AgileCommercee
-build_property.ProjectDir = C:\Users\WINDOWS10\source\repos\AgileCommercee\AgileCommercee\
+build_property.ProjectDir = D:\AgileProjectGit\Agile\AgileCommercee\AgileCommercee\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\WINDOWS10\source\repos\AgileCommercee\AgileCommercee
+build_property.MSBuildProjectDirectory = D:\AgileProjectGit\Agile\AgileCommercee\AgileCommercee
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Accounts/AfterLogin.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Accounts/AfterLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcQWZ0ZXJMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Accounts/CustomerLogin.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Accounts/CustomerLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcQ3VzdG9tZXJMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Accounts/Edit.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Accounts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Accounts/Index.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Accounts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Accounts/Login.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Accounts/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Accounts/Main.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Accounts/Main.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcTWFpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Accounts/Register.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Accounts/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Accounts/RegisterAD.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Accounts/RegisterAD.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcUmVnaXN0ZXJBRC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/HangHoas/Create.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/HangHoas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/HangHoas/Delete.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/HangHoas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/HangHoas/Details.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/HangHoas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/HangHoas/DetailsCus.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/HangHoas/DetailsCus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcRGV0YWlsc0N1cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/HangHoas/Edit.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/HangHoas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/HangHoas/Index.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/HangHoas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/HangHoas/IndexCus.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/HangHoas/IndexCus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcSW5kZXhDdXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/HangHoas/Search.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/HangHoas/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcU2VhcmNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/HangHoas/_SearchResultsPartial.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/HangHoas/StatisticByCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcU3RhdGlzdGljQnlDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/HangHoas/StatisticBySupplier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcU3RhdGlzdGljQnlTdXBwbGllci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/HangHoas/StatisticBySupplierCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcU3RhdGlzdGljQnlTdXBwbGllckNhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/HangHoas/_SearchResultsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcX1NlYXJjaFJlc3VsdHNQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Home/Index.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Home/Privacy.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Loais/Create.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Loais/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Loais/Delete.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Loais/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Loais/Details.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Loais/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Loais/Edit.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Loais/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Loais/Index.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Loais/GetProductByCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNcR2V0UHJvZHVjdEJ5Q2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Loais/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/NhaCungCaps/Create.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/NhaCungCaps/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhQ3VuZ0NhcHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/NhaCungCaps/Delete.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/NhaCungCaps/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhQ3VuZ0NhcHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/NhaCungCaps/Details.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/NhaCungCaps/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhQ3VuZ0NhcHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/NhaCungCaps/Edit.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/NhaCungCaps/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhQ3VuZ0NhcHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/NhaCungCaps/Index.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/NhaCungCaps/GetProductBySuppliers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhQ3VuZ0NhcHNcR2V0UHJvZHVjdEJ5U3VwcGxpZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/NhaCungCaps/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhQ3VuZ0NhcHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Shared/Error.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Shared/_BaboonStore.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Shared/_BaboonStore.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CYWJvb25TdG9yZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Shared/_BaboonStoreAfterLogin.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Shared/_BaboonStoreAfterLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CYWJvb25TdG9yZUFmdGVyTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Shared/_BaboonStoreCusLogin.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Shared/_BaboonStoreCusLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CYWJvb25TdG9yZUN1c0xvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/_ViewImports.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/_ViewStart.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS10/source/repos/AgileCommercee/AgileCommercee/Views/Shared/_Layout.cshtml]
+[D:/AgileProjectGit/Agile/AgileCommercee/AgileCommercee/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-n035wlvrse

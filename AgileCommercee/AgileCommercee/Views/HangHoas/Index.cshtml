@@ -27,14 +27,23 @@
 <body>
     <h1 align="center">PRODUCT MANAGEMENT</h1>
 
-    <p align="left">
-        <a button type="submit" class="btn btn-primary" asp-action="Create">Add more Product</a> |
-        <a button type="submit" class="btn btn-primary" href="/Loais">Category</a> |
-        <a buttin type="submit" class="btn btn-primary" href="/NhaCungCaps">Supplier</a>
-    </p>
     <div>
         <a button type="submit" class="btn btn-primary" href="/Accounts/AfterLogin">Back to List</a>
     </div>
+
+    <hr />
+
+    <p align="center">
+        <a button type="submit" class="btn btn-primary" asp-action="Create">Add more Product</a> |
+        <a button type="submit" class="btn btn-primary" href="/Loais">Category</a> |
+        <a button type="submit" class="btn btn-primary" href="/NhaCungCaps">Supplier</a>
+    </p>
+    <p align="center">
+        <a button type="" class="btn btn-primary" href="/Statistic/ByCategory">Product statistic by Category</a> |
+        <a button type="" class="btn btn-primary" href="/Statistic/BySupplier">Product statistic by Supplier</a> |
+        <a button type="" class="btn btn-primary" href="/Statistic/BySupplierCategory">Product statistic by Supplier & Category</a>
+    </p>
+    <hr />
 
     <table class="table" border="1">
         <thead>
@@ -111,6 +120,11 @@
             }
         </tbody>
     </table>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
     <footer id="footer" class="overflow-hidden">
         <div class="container">
             <div class="row">

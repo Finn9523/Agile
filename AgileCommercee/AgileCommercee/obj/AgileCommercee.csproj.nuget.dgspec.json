@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\AgileCommercee.csproj": {}
+    "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\AgileCommercee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\AgileCommercee.csproj": {
+    "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\AgileCommercee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\AgileCommercee.csproj",
+        "projectUniqueName": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\AgileCommercee.csproj",
         "projectName": "AgileCommercee",
-        "projectPath": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\AgileCommercee.csproj",
-        "packagesPath": "C:\\Users\\WINDOWS10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WINDOWS10\\source\\repos\\AgileCommercee\\AgileCommercee\\obj\\",
+        "projectPath": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\AgileCommercee.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\WINDOWS10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -66,6 +66,10 @@
                         <a asp-action="Edit" asp-route-id="@item.MaLoai">Edit</a> |
                         <a asp-action="Details" asp-route-id="@item.MaLoai">Details</a> |
                         <a asp-action="Delete" asp-route-id="@item.MaLoai">Delete</a>
+                        <br />
+                        __________________________
+                        <br />
+                        <a asp-action="GetProductByCategories" asp-route-maloai="@item.MaLoai">View all product</a>
                     </td>
                 </tr>
             }

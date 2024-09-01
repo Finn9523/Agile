@@ -1,4 +1,5 @@
 ﻿using AgileCommercee.Data;
+using AgileCommercee.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -134,5 +135,26 @@ namespace AgileCommercee.Controllers
             }
             return View(category);
         }
+        #region Get Product By Category
+        [HttpGet]
+        public IActionResult GetProductByCategories(int maloai)
+        {
+            var data = _Context.HangHoas
+                .Where(p => p.MaLoai == maloai)
+                .Select(p => new ProductByCategoryVM
+                {
+                    HangHoaMaHh = p.MaHh,
+                    HangHoaTenHh = p.TenHh,
+                    DonGia = p.DonGia,
+                    MaLoaiNavigation = p.MaLoaiNavigation.TenLoai,
+                    MaNccNavigation = p.MaNccNavigation.TenCongTy
+                }).ToList();
+            if (data == null || !data.Any())
+            {
+                return NotFound();
+            }
+            return View(data);
+        }
+        #endregion Get Product By Category
     }
 }

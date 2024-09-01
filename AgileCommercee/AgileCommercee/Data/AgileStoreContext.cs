@@ -55,7 +55,7 @@ public partial class AgileStoreContext : DbContext
     public virtual DbSet<YeuThich> YeuThiches { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Server=DESKTOP-14SO8E0\\SQLEXPRESS; Database=AgileStore;Integrated Security=True; Trust Server Certificate=True;");
+        => optionsBuilder.UseSqlServer("Server=DESKTOP-8MFUS3V\\SQLEXPRESS; Database=AgileStore;Integrated Security=True; Trust Server Certificate=True;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

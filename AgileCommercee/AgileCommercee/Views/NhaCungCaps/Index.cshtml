@@ -36,8 +36,8 @@
         <a button type="submit" class="btn btn-primary" href="/HangHoas">Back to List</a>
     </div>
     <br />
-    <table class="table" border="1">
-        <thead>
+    <table class="table table-bordered" border="1">
+        <thead align="center">
             <tr>
                 <th>
                     @Html.DisplayNameFor(model => model.TenCongTy)
@@ -63,7 +63,7 @@
                 <th>Supplier Management</th>
             </tr>
         </thead>
-        <tbody>
+        <tbody align="center">
             @foreach (var item in Model)
             {
                 <tr>
@@ -92,6 +92,10 @@
                         <a asp-action="Edit" asp-route-id="@item.MaNcc">Edit</a> |
                         <a asp-action="Details" asp-route-id="@item.MaNcc">Details</a> |
                         <a asp-action="Delete" asp-route-id="@item.MaNcc">Delete</a>
+                        <br />
+                        __________________________
+                        <br />
+                        <a asp-action="GetProductBySuppliers" asp-route-mancc="@item.MaNcc">View all product</a>
                     </td>
                 </tr>
             }
