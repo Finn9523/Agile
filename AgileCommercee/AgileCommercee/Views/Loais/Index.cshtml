@@ -25,18 +25,24 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 <body>
     <h1 align="center">CATEGORY MANAGEMENT</h1>
+
+    <hr />
+
     <div>
         <a button type="submit" class="btn btn-primary" asp-action="Create">Add more Category</a>
     </div>
-    <br />
-    <div>
-        <a button type="submit" class="btn btn-primary" href="/HangHoas">Back to List</a>
-    </div>
+
     <br />
 
-    <table class="table" border="1">
-        <thead>
-            <tr align="center">
+    <div>
+        <a button type="submit" class="btn btn-secondary" href="/HangHoas">Back to Product List</a>
+    </div>
+
+    <br />
+
+    <table class="table table-bordered" border="1">
+        <thead align="center">
+            <tr>
                 <th>
                     @Html.DisplayNameFor(model => model.TenLoai)
                 </th>
@@ -49,7 +55,7 @@
                 <th>Category Management</th>
             </tr>
         </thead>
-        <tbody>
+        <tbody align="center">
             @foreach (var item in Model)
             {
                 <tr align="center">
@@ -75,6 +81,13 @@
             }
         </tbody>
     </table>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
     <footer id="footer" class="overflow-hidden">
         <div class="container">
             <div class="row">

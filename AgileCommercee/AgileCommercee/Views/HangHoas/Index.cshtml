@@ -27,26 +27,25 @@
 <body>
     <h1 align="center">PRODUCT MANAGEMENT</h1>
 
-    <div>
-        <a button type="submit" class="btn btn-primary" href="/Accounts/AfterLogin">Back to List</a>
+    <div align="left">
+        <a button type="submit" class="btn btn-secondary" href="/Accounts/AfterLogin"> Home</a> |
+        <a button type="submit" class="btn btn-outline-dark" href="/Loais">Category</a> |
+        <a button type="submit" class="btn btn-outline-dark" href="/NhaCungCaps">Supplier</a>
     </div>
 
     <hr />
 
-    <p align="center">
-        <a button type="submit" class="btn btn-primary" asp-action="Create">Add more Product</a> |
-        <a button type="submit" class="btn btn-primary" href="/Loais">Category</a> |
-        <a button type="submit" class="btn btn-primary" href="/NhaCungCaps">Supplier</a>
+    <p align="center" class="d-flex justify-content-between">
+        <a button type="submit" class="btn btn-primary" asp-action="Create">Add more Product</a> 
+        <a button type="submit" class="btn btn-primary" href="/Statistic/ByCategory">Product statistic by Category</a> 
+        <a button type="submit" class="btn btn-primary" href="/Statistic/BySupplier">Product statistic by Supplier</a> 
+        <a button type="submit" class="btn btn-primary" href="/Statistic/BySupplierCategory">Product statistic by Supplier & Category</a>
     </p>
-    <p align="center">
-        <a button type="" class="btn btn-primary" href="/Statistic/ByCategory">Product statistic by Category</a> |
-        <a button type="" class="btn btn-primary" href="/Statistic/BySupplier">Product statistic by Supplier</a> |
-        <a button type="" class="btn btn-primary" href="/Statistic/BySupplierCategory">Product statistic by Supplier & Category</a>
-    </p>
-    <hr />
 
-    <table class="table" border="1">
-        <thead>
+    <br />
+
+    <table class="table table-bordered" border="1">
+        <thead align="center">
             <tr>
                 <th>
                     @Html.DisplayNameFor(model => model.TenHh)
@@ -79,7 +78,7 @@
                 <th>Product Management</th>
             </tr>
         </thead>
-        <tbody>
+        <tbody align="center">
             @foreach (var item in Model)
             {
                 <tr>
@@ -120,11 +119,13 @@
             }
         </tbody>
     </table>
+
     <br />
     <br />
     <br />
     <br />
     <br />
+
     <footer id="footer" class="overflow-hidden">
         <div class="container">
             <div class="row">

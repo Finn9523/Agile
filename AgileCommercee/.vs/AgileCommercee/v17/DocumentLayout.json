@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\agileprojectgit\\agile\\agilecommercee\\agilecommercee\\models\\categorystatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\models\\categorystatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\agileprojectgit\\agile\\agilecommercee\\agilecommercee\\views\\hanghoas\\statisticbysuppliercategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\hanghoas\\statisticbysuppliercategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\agileprojectgit\\agile\\agilecommercee\\agilecommercee\\models\\productbysuppliervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\models\\productbysuppliervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\agileprojectgit\\agile\\agilecommercee\\agilecommercee\\views\\hanghoas\\statisticbysupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\hanghoas\\statisticbysupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\agileprojectgit\\agile\\agilecommercee\\agilecommercee\\controllers\\loaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\controllers\\loaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\agileprojectgit\\agile\\agilecommercee\\agilecommercee\\views\\hanghoas\\statisticbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\hanghoas\\statisticbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\agileprojectgit\\agile\\agilecommercee\\agilecommercee\\views\\nhacungcaps\\getproductbysuppliers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,18 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\agileprojectgit\\agile\\agilecommercee\\agilecommercee\\views\\loais\\getproductbycategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\loais\\getproductbycategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\agileprojectgit\\agile\\agilecommercee\\agilecommercee\\views\\nhacungcaps\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\nhacungcaps\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\agileprojectgit\\agile\\agilecommercee\\agilecommercee\\views\\loais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\loais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\agileprojectgit\\agile\\agilecommercee\\agilecommercee\\controllers\\nhacungcapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\controllers\\nhacungcapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,40 +39,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryStatistic.cs",
-              "DocumentMoniker": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Models\\CategoryStatistic.cs",
-              "RelativeDocumentMoniker": "AgileCommercee\\Models\\CategoryStatistic.cs",
-              "ToolTip": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Models\\CategoryStatistic.cs",
-              "RelativeToolTip": "AgileCommercee\\Models\\CategoryStatistic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T16:19:11.427Z",
+              "Title": "StatisticBySupplierCategory.cshtml",
+              "DocumentMoniker": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\StatisticBySupplierCategory.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\HangHoas\\StatisticBySupplierCategory.cshtml",
+              "ToolTip": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\StatisticBySupplierCategory.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\HangHoas\\StatisticBySupplierCategory.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T14:45:42.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\NhaCungCaps\\Index.cshtml",
-              "RelativeDocumentMoniker": "AgileCommercee\\Views\\NhaCungCaps\\Index.cshtml",
-              "ToolTip": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\NhaCungCaps\\Index.cshtml",
-              "RelativeToolTip": "AgileCommercee\\Views\\NhaCungCaps\\Index.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGEAAABwAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "StatisticBySupplier.cshtml",
+              "DocumentMoniker": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\StatisticBySupplier.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\HangHoas\\StatisticBySupplier.cshtml",
+              "ToolTip": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\StatisticBySupplier.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\HangHoas\\StatisticBySupplier.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-01T16:07:14.252Z",
+              "WhenOpened": "2024-09-02T14:45:20.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetProductByCategories.cshtml",
-              "DocumentMoniker": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\Loais\\GetProductByCategories.cshtml",
-              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Loais\\GetProductByCategories.cshtml",
-              "ToolTip": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\Loais\\GetProductByCategories.cshtml",
-              "RelativeToolTip": "AgileCommercee\\Views\\Loais\\GetProductByCategories.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "StatisticByCategory.cshtml",
+              "DocumentMoniker": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\StatisticByCategory.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\HangHoas\\StatisticByCategory.cshtml",
+              "ToolTip": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\HangHoas\\StatisticByCategory.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\HangHoas\\StatisticByCategory.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-01T16:05:27.614Z",
+              "WhenOpened": "2024-09-02T14:45:04.458Z",
               "EditorCaption": ""
             },
             {
@@ -95,61 +83,23 @@
               "RelativeDocumentMoniker": "AgileCommercee\\Views\\NhaCungCaps\\GetProductBySuppliers.cshtml",
               "ToolTip": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\NhaCungCaps\\GetProductBySuppliers.cshtml",
               "RelativeToolTip": "AgileCommercee\\Views\\NhaCungCaps\\GetProductBySuppliers.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-01T16:04:53.205Z",
+              "WhenOpened": "2024-09-02T14:44:06.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoaiController.cs",
-              "DocumentMoniker": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Controllers\\LoaiController.cs",
-              "RelativeDocumentMoniker": "AgileCommercee\\Controllers\\LoaiController.cs",
-              "ToolTip": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Controllers\\LoaiController.cs",
-              "RelativeToolTip": "AgileCommercee\\Controllers\\LoaiController.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAQwIsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T16:01:36.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductBySupplierVM.cs",
-              "DocumentMoniker": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Models\\ProductBySupplierVM.cs",
-              "RelativeDocumentMoniker": "AgileCommercee\\Models\\ProductBySupplierVM.cs",
-              "ToolTip": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Models\\ProductBySupplierVM.cs",
-              "RelativeToolTip": "AgileCommercee\\Models\\ProductBySupplierVM.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T15:59:39.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\Loais\\Index.cshtml",
-              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Loais\\Index.cshtml",
-              "ToolTip": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\Loais\\Index.cshtml",
-              "RelativeToolTip": "AgileCommercee\\Views\\Loais\\Index.cshtml",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAwEoAAAANAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "GetProductByCategories.cshtml",
+              "DocumentMoniker": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\Loais\\GetProductByCategories.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Loais\\GetProductByCategories.cshtml",
+              "ToolTip": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Views\\Loais\\GetProductByCategories.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Loais\\GetProductByCategories.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-01T16:07:22.677Z",
+              "WhenOpened": "2024-09-02T14:44:03.874Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NhaCungCapController.cs",
-              "DocumentMoniker": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Controllers\\NhaCungCapController.cs",
-              "RelativeDocumentMoniker": "AgileCommercee\\Controllers\\NhaCungCapController.cs",
-              "ToolTip": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\Controllers\\NhaCungCapController.cs",
-              "RelativeToolTip": "AgileCommercee\\Controllers\\NhaCungCapController.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAuwIwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T15:59:22.941Z"
             }
           ]
         }

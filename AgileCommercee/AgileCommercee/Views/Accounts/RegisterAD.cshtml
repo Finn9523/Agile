@@ -4,7 +4,9 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Create Account</h1>
+<h1 align="center">CREATE NEW ADMIN ACCOUNT</h1>
+
+<br />
 
 <head>
     <title>BaboonStore - @ViewBag.Title</title>
@@ -27,9 +29,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 </head>
 <body>
-    <hr />
-    <div class="row">
-        <div class="col-md-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
             <form asp-action="RegisterAD" enctype="multipart/form-data">
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <div class="form-group">
@@ -86,16 +87,25 @@
                     </div>
                     <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
                 </div>
-                <div class="form-group">
-                    <input type="submit" value="Create" class="btn btn-primary" />
+
+                <br />
+                <br />
+
+                <div class="form-group d-flex justify-content-between">
+                    <a class="btn btn-secondary" asp-action="AfterLogin">Home</a>
+                    <button type="submit" class="btn btn-primary" href="/Accounts/Main.cshtml">Register</button>
                 </div>
+
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+
             </form>
         </div>
     </div>
 
-    <div>
-        <a asp-action="AfterLogin">Back to List</a>
-    </div>
     <footer id="footer" class="overflow-hidden">
         <div class="container">
             <div class="row">

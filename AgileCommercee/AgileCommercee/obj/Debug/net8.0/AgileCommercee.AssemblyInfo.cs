@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgileCommercee")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7b5b988e2cdcd8c64edca1f3ce0d8ce35d88427")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e261a5cce77f27f64d0fa8a74da0fb9cc116689")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgileCommercee")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgileCommercee")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

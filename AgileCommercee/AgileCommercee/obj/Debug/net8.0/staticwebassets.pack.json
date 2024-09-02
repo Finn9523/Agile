@@ -309,8 +309,24 @@
       "PackagePath": "staticwebassets\\images\\HangHoas\\meme.jfif"
     },
     {
+      "Id": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\samsung-galaxy-watch-3-lte-45mm-thumb-1-1-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\samsung-galaxy-watch-3-lte-45mm-thumb-1-1-600x600.jpg"
+    },
+    {
+      "Id": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\samsung-galaxy-watch6-40mm-lte-den-ksp-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\samsung-galaxy-watch6-40mm-lte-den-ksp-600x600.jpg"
+    },
+    {
+      "Id": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\samsung-galaxy-watch6-classic-lte-47-mm-den-ksp-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\samsung-galaxy-watch6-classic-lte-47-mm-den-ksp-600x600.jpg"
+    },
+    {
       "Id": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\samsung.jpg",
       "PackagePath": "staticwebassets\\images\\HangHoas\\samsung.jpg"
+    },
+    {
+      "Id": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\samsung_3_1.png",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\samsung_3_1.png"
     },
     {
       "Id": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\tulanh.jpg",
@@ -379,6 +395,10 @@
     {
       "Id": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Loais\\laptop.jpg",
       "PackagePath": "staticwebassets\\images\\Loais\\laptop.jpg"
+    },
+    {
+      "Id": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Loais\\logo.png",
+      "PackagePath": "staticwebassets\\images\\Loais\\logo.png"
     },
     {
       "Id": "D:\\AgileProjectGit\\Agile\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Loais\\maytinhbang.jpg",
