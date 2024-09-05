@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\views\\shared\\_baboonstorecuslogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\shared\\_baboonstorecuslogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\views\\accounts\\qltk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\qltk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\views\\accounts\\customerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\customerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\views\\accounts\\forgetpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,32 +31,24 @@
       "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\views\\accounts\\customerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\customerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\mytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\mytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\views\\accounts\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\models\\forgetpassviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\models\\forgetpassviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\mytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\mytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|c:\\users\\ngoc thien\\agile\\agilecommerce\\agilecommerce\\agilecommercee\\agilecommercee\\models\\forgetpassviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\models\\forgetpassviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,13 +66,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "_BaboonStoreCusLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStoreCusLogin.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Shared\\_BaboonStoreCusLogin.cshtml",
+              "ToolTip": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStoreCusLogin.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Shared\\_BaboonStoreCusLogin.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABYAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T07:34:44.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Profile.cshtml",
               "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\Profile.cshtml",
               "ToolTip": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Profile.cshtml",
               "RelativeToolTip": "AgileCommercee\\Views\\Accounts\\Profile.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAcwKcAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-05T07:06:44.647Z",
               "EditorCaption": ""
@@ -81,20 +98,20 @@
               "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\Register.cshtml",
               "ToolTip": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Register.cshtml",
               "RelativeToolTip": "AgileCommercee\\Views\\Accounts\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAIAAAA",
+              "ViewState": "AQIAANsAAAAAAAAAAAAAAEMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-05T07:05:56.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "QLTK.cshtml",
               "DocumentMoniker": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\QLTK.cshtml",
               "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\QLTK.cshtml",
               "ToolTip": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\QLTK.cshtml",
               "RelativeToolTip": "AgileCommercee\\Views\\Accounts\\QLTK.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAASAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-05T07:05:25.704Z",
               "EditorCaption": ""
@@ -114,20 +131,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ForgetPass.cshtml",
               "DocumentMoniker": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\ForgetPass.cshtml",
               "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\ForgetPass.cshtml",
               "ToolTip": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\ForgetPass.cshtml",
               "RelativeToolTip": "AgileCommercee\\Views\\Accounts\\ForgetPass.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-29T08:34:17.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ForgetPassViewModel.cs",
               "DocumentMoniker": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Models\\ForgetPassViewModel.cs",
               "RelativeDocumentMoniker": "AgileCommercee\\Models\\ForgetPassViewModel.cs",
@@ -135,25 +152,24 @@
               "RelativeToolTip": "AgileCommercee\\Models\\ForgetPassViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T08:31:47.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T08:31:47.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Login.cshtml",
               "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\Login.cshtml",
               "ToolTip": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\Login.cshtml",
               "RelativeToolTip": "AgileCommercee\\Views\\Accounts\\Login.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAMMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-29T06:15:14.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CustomerLogin.cshtml",
               "DocumentMoniker": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Views\\Accounts\\CustomerLogin.cshtml",
               "RelativeDocumentMoniker": "AgileCommercee\\Views\\Accounts\\CustomerLogin.cshtml",
@@ -166,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "MyTool.cs",
               "DocumentMoniker": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\MyTool.cs",
               "RelativeDocumentMoniker": "AgileCommercee\\MyTool.cs",
@@ -174,25 +190,24 @@
               "RelativeToolTip": "AgileCommercee\\MyTool.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T02:15:43.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T02:15:43.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "AgileCommercee\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Controllers\\AccountController.cs",
               "RelativeToolTip": "AgileCommercee\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAIwKIAAAAeAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwKIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T01:41:20.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "AgileCommercee\\Models\\LoginViewModel.cs",

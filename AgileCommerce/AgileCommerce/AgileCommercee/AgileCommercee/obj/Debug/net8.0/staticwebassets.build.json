@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DCEW+V02/xHjlxhnOioWkwnsjMDICBeguTniCSgHP0w=",
+  "Hash": "FL7rTVI0KHPAjHw9BZwU7RW706GjgCCaa+U3O9eTp0g=",
   "Source": "AgileCommercee",
   "BasePath": "_content/AgileCommercee",
   "Mode": "Default",
@@ -112,6 +112,25 @@
       "OriginalItemSpec": "wwwroot\\Hinh\\Hinh\\1edf2ab4-9c62-45d5-aa2e-43db0ef9e6b0.png"
     },
     {
+      "Identity": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\Hinh\\Hinh\\25a3d31d-f2d6-4b33-8dba-474ad5a8a8ca.jpg",
+      "SourceId": "AgileCommercee",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\",
+      "BasePath": "_content/AgileCommercee",
+      "RelativePath": "Hinh/Hinh/25a3d31d-f2d6-4b33-8dba-474ad5a8a8ca.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\Hinh\\25a3d31d-f2d6-4b33-8dba-474ad5a8a8ca.jpg"
+    },
+    {
       "Identity": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\Hinh\\Hinh\\433d50c8-ba91-47a2-87cf-c80bfe5e80db.jpg",
       "SourceId": "AgileCommercee",
       "SourceType": "Discovered",
@@ -148,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Hinh\\Hinh\\8fe3d1a7-67aa-4c0a-b222-97c231bd76cf.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\Hinh\\Hinh\\c1b28298-b0ce-4dcb-a856-859b13c7cdda.png",
+      "SourceId": "AgileCommercee",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\",
+      "BasePath": "_content/AgileCommercee",
+      "RelativePath": "Hinh/Hinh/c1b28298-b0ce-4dcb-a856-859b13c7cdda.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\Hinh\\c1b28298-b0ce-4dcb-a856-859b13c7cdda.png"
     },
     {
       "Identity": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\BaboonStore.png",
