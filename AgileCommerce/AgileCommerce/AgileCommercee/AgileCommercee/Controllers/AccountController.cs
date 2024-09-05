@@ -89,6 +89,7 @@ namespace AgileCommercee.Controllers
                 var user = _context.Users.FirstOrDefault(p => p.UserName == model.UserName);
                 if (user != null && BCrypt.Net.BCrypt.Verify(model.Password, user.PasswordHash))
                 {
+                    HttpContext.Session.SetString("Password", model.Password);
                     HttpContext.Session.SetInt32("Id", user.Id);
                     HttpContext.Session.SetString("Username", user.UserName);
                     if (user.Roles == 0)
@@ -160,6 +161,23 @@ namespace AgileCommercee.Controllers
             var id = HttpContext.Session.GetInt32("Id");
             var user = _context.Users.FirstOrDefault(u => u.UserName == userName && u.Id == id);
             return View(user);
+        }
+        public IActionResult ChangePassword()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult ChangePassword(ChangePasswordViewModel model)
+        {
+            var userName = HttpContext.Session.GetString("Username");
+            var userId = HttpContext.Session.GetInt32("Id");
+            var user = _context.Users.FirstOrDefault(u => u.UserName == userName && u.Id == userId);
+            if (user != null && BCrypt.Net.BCrypt.Verify(model.OldPassword, user.PasswordHash))
+            {
+                user.PasswordHash = BCrypt.Net.BCrypt.HashPassword(model.NewPassword);
+                _context.SaveChanges();
+            }
+            return RedirectToAction("CustomerLogin");
         }
 
         public IActionResult QLTK()
