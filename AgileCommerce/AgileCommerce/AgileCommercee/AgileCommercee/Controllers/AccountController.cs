@@ -188,7 +188,7 @@ namespace AgileCommercee.Controllers
             return View(user);
         }
         [HttpPost]
-        public IActionResult QLTK(User model)
+        public IActionResult QLTK(User model, IFormFile Hinh)
         {
             try
             {
@@ -200,7 +200,10 @@ namespace AgileCommercee.Controllers
                 user.Address = model.Address;
                 user.PhoneNumber = model.PhoneNumber;
                 user.Email = model.Email;
-                user.Hinh = model.Hinh;
+                if (Hinh != null)
+                {
+                    user.Hinh = MyTool.UploadImageToFolder(Hinh, "Hinh");
+                }
                 user.Roles = model.Roles;
 
                 _context.SaveChanges();
