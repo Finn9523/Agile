@@ -112,6 +112,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Hinh\Hinh\8fe3d1a7-67aa-4c0a-b222-97c231bd76cf.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Hinh\Hinh\a2201908-08fe-444d-9c5f-9fb9f8609b2d.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>AgileCommercee</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AgileCommercee</BasePath>
+      <RelativePath>Hinh/Hinh/a2201908-08fe-444d-9c5f-9fb9f8609b2d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Hinh\Hinh\a2201908-08fe-444d-9c5f-9fb9f8609b2d.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Hinh\Hinh\c1b28298-b0ce-4dcb-a856-859b13c7cdda.png))">
       <SourceType>Package</SourceType>
       <SourceId>AgileCommercee</SourceId>

@@ -23,9 +23,22 @@ namespace AgileCommercee.Controllers
             var data = _context.Users != null ? _context.Users.ToList() : new List<User>();
             return View(data);
         }
-
         public IActionResult Main()
         {
+            // Lấy giá trị Roles từ session
+            var userRoles = HttpContext.Session.GetInt32("Roles");
+
+            // Kiểm tra giá trị của Roles
+            if (userRoles == null)
+            {
+                return RedirectToAction("CustomerLogin", "Accounts");
+            }
+            else if (userRoles == 0)
+            {
+                return RedirectToAction("AfterLogin", "Accounts");
+            }
+
+            // Nếu Roles không phải null và không phải 0, tiếp tục lấy danh sách người dùng
             var data = _context.Users != null ? _context.Users.ToList() : new List<User>();
             return View(data);
         }
@@ -92,13 +105,16 @@ namespace AgileCommercee.Controllers
                     HttpContext.Session.SetString("Password", model.Password);
                     HttpContext.Session.SetInt32("Id", user.Id);
                     HttpContext.Session.SetString("Username", user.UserName);
-                    if (user.Roles == 0)
-                    {
-                        return RedirectToAction("AfterLogin");
-                    }
-                    else if (user.Roles == null)
+                    HttpContext.Session.SetInt32("Roles", user.Roles ?? 0);
+
+                    // Kiểm tra giá trị user.Roles
+                    if (user.Roles == null)
                     {
                         return RedirectToAction("CustomerLogin");
+                    }
+                    else if (user.Roles == 0)
+                    {
+                        return RedirectToAction("AfterLogin");
                     }
                 }
                 ModelState.AddModelError("", "Hãy thử đăng nhập lại.");

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FL7rTVI0KHPAjHw9BZwU7RW706GjgCCaa+U3O9eTp0g=",
+  "Hash": "4X57kHeERWy6HxI5wqiKvbS79eS2sgAmEvRPlEycxEY=",
   "Source": "AgileCommercee",
   "BasePath": "_content/AgileCommercee",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Hinh\\Hinh\\8fe3d1a7-67aa-4c0a-b222-97c231bd76cf.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\Hinh\\Hinh\\a2201908-08fe-444d-9c5f-9fb9f8609b2d.jpg",
+      "SourceId": "AgileCommercee",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\",
+      "BasePath": "_content/AgileCommercee",
+      "RelativePath": "Hinh/Hinh/a2201908-08fe-444d-9c5f-9fb9f8609b2d.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\Hinh\\a2201908-08fe-444d-9c5f-9fb9f8609b2d.jpg"
     },
     {
       "Identity": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\Hinh\\Hinh\\c1b28298-b0ce-4dcb-a856-859b13c7cdda.png",
