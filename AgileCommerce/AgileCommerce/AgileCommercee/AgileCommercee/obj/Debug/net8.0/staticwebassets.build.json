@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4X57kHeERWy6HxI5wqiKvbS79eS2sgAmEvRPlEycxEY=",
+  "Hash": "8O5P4fFQhxPVIvfvM7rlGOCwcBBW8n2nUmMmow0ohDg=",
   "Source": "AgileCommercee",
   "BasePath": "_content/AgileCommercee",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\Hinh\\Hinh\\0bb55a0e-c72e-403b-bdf1-03d839a99da3.jpg",
+      "SourceId": "AgileCommercee",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\",
+      "BasePath": "_content/AgileCommercee",
+      "RelativePath": "Hinh/Hinh/0bb55a0e-c72e-403b-bdf1-03d839a99da3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\Hinh\\0bb55a0e-c72e-403b-bdf1-03d839a99da3.jpg"
     },
     {
       "Identity": "C:\\Users\\NGOC THIEN\\Agile\\AgileCommerce\\AgileCommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\Hinh\\Hinh\\1edf2ab4-9c62-45d5-aa2e-43db0ef9e6b0.png",

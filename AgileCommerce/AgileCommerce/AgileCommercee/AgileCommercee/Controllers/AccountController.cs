@@ -27,13 +27,14 @@ namespace AgileCommercee.Controllers
         {
             // Lấy giá trị Roles từ session
             var userRoles = HttpContext.Session.GetInt32("Roles");
+            var userId = HttpContext.Session.GetInt32("Id");
 
             // Kiểm tra giá trị của Roles
-            if (userRoles == null)
+            if (userRoles == null && userId != null)
             {
                 return RedirectToAction("CustomerLogin", "Accounts");
             }
-            else if (userRoles == 0)
+            else if (userRoles == 0 && userId != null)
             {
                 return RedirectToAction("AfterLogin", "Accounts");
             }
@@ -128,20 +129,31 @@ namespace AgileCommercee.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult ForgetPass(string username, string email)
+        public IActionResult ForgetPass(ForgetPassViewModel model)
         {
-            // Kiểm tra sự tồn tại của username và email
-            var user = _context.Users.FirstOrDefault(u => u.UserName == username && u.Email == email);
-            HttpContext.Session.SetString("resetusername", username);
-            HttpContext.Session.SetString("resetemail", email);
-            if (user != null)
+            // Kiểm tra xem model có hợp lệ không
+            if (ModelState.IsValid)
             {
-                return RedirectToAction("ResetPassword","Accounts");
+                var user = _context.Users.FirstOrDefault(u => u.UserName == model.username && u.Email == model.email);
 
+                if (user != null)
+                {
+                    HttpContext.Session.SetString("resetusername", model.username);
+                    HttpContext.Session.SetString("resetemail", model.email);
+
+                    return RedirectToAction("ResetPassword", "Accounts");
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Username hoặc email không hợp lệ. Vui lòng thử lại.");
+                }
             }
-            else { return View(); }
-            
+
+            // Trả về lại view cùng với model để giữ lại dữ liệu và hiển thị lỗi
+            return View(model);
         }
+
+
         public IActionResult ResetPassword()
         {
             var user = HttpContext.Session.GetString("resetusername");
@@ -227,6 +239,11 @@ namespace AgileCommercee.Controllers
             }
             catch (Exception ex) { }
             return View(model);  
+        }
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear();
+            return RedirectToAction("Main");
         }
     }
 }
