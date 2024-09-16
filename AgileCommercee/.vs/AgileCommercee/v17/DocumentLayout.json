@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SA of Ecommerce\\AgileCommercee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\sa of ecommerce\\agilecommercee\\agilecommercee\\views\\shared\\_baboonstore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\shared\\_baboonstore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\sa of ecommerce\\agilecommercee\\agilecommercee\\views\\shared\\_baboonstoreafterlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\shared\\_baboonstoreafterlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\sa of ecommerce\\agilecommercee\\agilecommercee\\views\\shared\\_baboonstorecuslogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\shared\\_baboonstorecuslogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\sa of ecommerce\\agilecommercee\\agilecommercee\\views\\statistis\\statisticbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\statistis\\statisticbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\sa of ecommerce\\agilecommercee\\agilecommercee\\controllers\\statisticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\controllers\\statisticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\sa of ecommerce\\agilecommercee\\agilecommercee\\views\\statistis\\statisticbysuppliercategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\statistis\\statisticbysuppliercategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\sa of ecommerce\\agilecommercee\\agilecommercee\\views\\statistis\\statisticbysupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\views\\statistis\\statisticbysupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\sa of ecommerce\\agilecommercee\\agilecommercee\\models\\istatisticsstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\models\\istatisticsstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\sa of ecommerce\\agilecommercee\\agilecommercee\\models\\supplierstatisticsstrategy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\models\\supplierstatisticsstrategy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\sa of ecommerce\\agilecommercee\\agilecommercee\\models\\categorystatisticsstrategy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\models\\categorystatisticsstrategy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|d:\\sa of ecommerce\\agilecommercee\\agilecommercee\\models\\suppliercategorystatisticsstrategy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C942091-88C3-4D3C-B318-C6658CBECD32}|AgileCommercee\\AgileCommercee.csproj|solutionrelative:agilecommercee\\models\\suppliercategorystatisticsstrategy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatistiController.cs",
+              "DocumentMoniker": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Controllers\\StatistiController.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\Controllers\\StatistiController.cs",
+              "ToolTip": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Controllers\\StatistiController.cs",
+              "RelativeToolTip": "AgileCommercee\\Controllers\\StatistiController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:30:00.415Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryStatisticsStrategy1.cs",
+              "DocumentMoniker": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Models\\CategoryStatisticsStrategy1.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\Models\\CategoryStatisticsStrategy1.cs",
+              "ToolTip": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Models\\CategoryStatisticsStrategy1.cs",
+              "RelativeToolTip": "AgileCommercee\\Models\\CategoryStatisticsStrategy1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:31:20.841Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SupplierCategoryStatisticsStrategy1.cs",
+              "DocumentMoniker": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Models\\SupplierCategoryStatisticsStrategy1.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\Models\\SupplierCategoryStatisticsStrategy1.cs",
+              "ToolTip": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Models\\SupplierCategoryStatisticsStrategy1.cs",
+              "RelativeToolTip": "AgileCommercee\\Models\\SupplierCategoryStatisticsStrategy1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:33:16.502Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupplierStatisticsStrategy1.cs",
+              "DocumentMoniker": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Models\\SupplierStatisticsStrategy1.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\Models\\SupplierStatisticsStrategy1.cs",
+              "ToolTip": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Models\\SupplierStatisticsStrategy1.cs",
+              "RelativeToolTip": "AgileCommercee\\Models\\SupplierStatisticsStrategy1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:31:52.467Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStatisticsStrategy.cs",
+              "DocumentMoniker": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Models\\IStatisticsStrategy.cs",
+              "RelativeDocumentMoniker": "AgileCommercee\\Models\\IStatisticsStrategy.cs",
+              "ToolTip": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Models\\IStatisticsStrategy.cs",
+              "RelativeToolTip": "AgileCommercee\\Models\\IStatisticsStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:37:50.624Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_BaboonStore.cshtml",
+              "DocumentMoniker": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStore.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Shared\\_BaboonStore.cshtml",
+              "ToolTip": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStore.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Shared\\_BaboonStore.cshtml",
+              "ViewState": "AgIAADgBAAAAAAAAAAAAAFoBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T01:21:07.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_BaboonStoreAfterLogin.cshtml",
+              "DocumentMoniker": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStoreAfterLogin.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Shared\\_BaboonStoreAfterLogin.cshtml",
+              "ToolTip": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStoreAfterLogin.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Shared\\_BaboonStoreAfterLogin.cshtml",
+              "ViewState": "AgIAADIBAAAAAAAAAAAAADkBAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T01:24:25.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_BaboonStoreCusLogin.cshtml",
+              "DocumentMoniker": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStoreCusLogin.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Shared\\_BaboonStoreCusLogin.cshtml",
+              "ToolTip": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Views\\Shared\\_BaboonStoreCusLogin.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Shared\\_BaboonStoreCusLogin.cshtml",
+              "ViewState": "AgIAADIBAAAAAAAAAAAAAEYBAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T01:24:40.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatisticByCategory.cshtml",
+              "DocumentMoniker": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Views\\Statistis\\StatisticByCategory.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Statistis\\StatisticByCategory.cshtml",
+              "ToolTip": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Views\\Statistis\\StatisticByCategory.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Statistis\\StatisticByCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T08:52:37.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatisticBySupplierCategory.cshtml",
+              "DocumentMoniker": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Views\\Statistis\\StatisticBySupplierCategory.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Statistis\\StatisticBySupplierCategory.cshtml",
+              "ToolTip": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Views\\Statistis\\StatisticBySupplierCategory.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Statistis\\StatisticBySupplierCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T08:59:14.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatisticBySupplier.cshtml",
+              "DocumentMoniker": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Views\\Statistis\\StatisticBySupplier.cshtml",
+              "RelativeDocumentMoniker": "AgileCommercee\\Views\\Statistis\\StatisticBySupplier.cshtml",
+              "ToolTip": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\Views\\Statistis\\StatisticBySupplier.cshtml",
+              "RelativeToolTip": "AgileCommercee\\Views\\Statistis\\StatisticBySupplier.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T08:59:09.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

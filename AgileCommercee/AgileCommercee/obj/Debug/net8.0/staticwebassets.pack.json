@@ -1,0 +1,937 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AgileCommercee.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AgileCommercee.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\css\\vendor.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\banner-image.png",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\banner-image.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\cart-item1.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\cart-item1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\cart-item2.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\cart-item2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\commentor-item1.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\commentor-item1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\commentor-item2.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\commentor-item2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\commentor-item3.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\commentor-item3.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\dhl.png",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\dhl.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\insta-item1.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\insta-item1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\insta-item2.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\insta-item2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\insta-item3.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\insta-item3.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\insta-item4.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\insta-item4.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\insta-item5.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\insta-item5.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\main-logo.png",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\main-logo.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\mastercard.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\mastercard.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\paypal.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\paypal.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-image.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-image.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-image1.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-image1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-item1.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-item1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-item2.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-item2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-item3.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-item3.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-item4.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-item4.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-item5.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-item5.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-item6.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-item6.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-item7.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-item7.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-item8.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-item8.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-item9.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-item9.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-small-image1.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-small-image1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-small-image2.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-small-image2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\post-small-image3.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\post-small-image3.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\product-item1.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\product-item1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\product-item10.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\product-item10.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\product-item2.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\product-item2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\product-item3.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\product-item3.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\product-item4.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\product-item4.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\product-item5.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\product-item5.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\product-item6.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\product-item6.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\product-item7.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\product-item7.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\product-item8.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\product-item8.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\product-item9.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\product-item9.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\review-item1.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\review-item1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\review-item2.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\review-item2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\search-icon.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\shippingcard.png",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\shippingcard.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\singel-product-item.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\singel-product-item.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\single-image1.png",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\single-image1.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\single-image2.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\single-image2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\single-image3.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\single-image3.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\single-post.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\single-post.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\images\\visa.jpg",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\images\\visa.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\index.html"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\js\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\js\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\js\\modernizr.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\js\\script.js",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\js\\script.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\MiniStore-1.0.0\\style.css",
+      "PackagePath": "staticwebassets\\MiniStore-1.0.0\\style.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\BaboonStore.png",
+      "PackagePath": "staticwebassets\\images\\BaboonStore.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\30days_Postman.png",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\30days_Postman.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\3fec6a60074f8bbae0e7ff1dc356ca0f.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\3fec6a60074f8bbae0e7ff1dc356ca0f.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\IsEmpty ll.png",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\IsEmpty ll.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\Logo.gif",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\Logo.gif"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\UncleHai.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\UncleHai.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\apple1.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\apple1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\cattoc.jfif",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\cattoc.jfif"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\dienthoai_category.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\dienthoai_category.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\haha.jfif",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\haha.jfif"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\hehe.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\hehe.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\hihi.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\hihi.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\images1222.jfif",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\images1222.jfif"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\laptop.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\laptop.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\laptoplenovothinkpade14gen421e300e5vn3.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\laptoplenovothinkpade14gen421e300e5vn3.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\macbook.jfif",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\macbook.jfif"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\maytinhbang.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\maytinhbang.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\meme.jfif",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\meme.jfif"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\samsung.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\samsung.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\ss-tab-s9-plus_1__1.webp",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\ss-tab-s9-plus_1__1.webp"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\tulanh.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\tulanh.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\HangHoas\\tvLG.jpg",
+      "PackagePath": "staticwebassets\\images\\HangHoas\\tvLG.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\13043636_10208326568495988_8300251849973031790_n.jpg",
+      "PackagePath": "staticwebassets\\images\\Hinh\\13043636_10208326568495988_8300251849973031790_n.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\13062976_10208275333653922_9095342736410623488_o.jpg",
+      "PackagePath": "staticwebassets\\images\\Hinh\\13062976_10208275333653922_9095342736410623488_o.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\3fec6a60074f8bbae0e7ff1dc356ca0f.jpg",
+      "PackagePath": "staticwebassets\\images\\Hinh\\3fec6a60074f8bbae0e7ff1dc356ca0f.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\Choco.jpg",
+      "PackagePath": "staticwebassets\\images\\Hinh\\Choco.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\IMG_7186.jpg",
+      "PackagePath": "staticwebassets\\images\\Hinh\\IMG_7186.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\Lazy.jfif",
+      "PackagePath": "staticwebassets\\images\\Hinh\\Lazy.jfif"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\Niie.jpg",
+      "PackagePath": "staticwebassets\\images\\Hinh\\Niie.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\Niie2.jpg",
+      "PackagePath": "staticwebassets\\images\\Hinh\\Niie2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\UncleHai.jpg",
+      "PackagePath": "staticwebassets\\images\\Hinh\\UncleHai.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\cattoc.jfif",
+      "PackagePath": "staticwebassets\\images\\Hinh\\cattoc.jfif"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\download.jpg",
+      "PackagePath": "staticwebassets\\images\\Hinh\\download.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\download.png",
+      "PackagePath": "staticwebassets\\images\\Hinh\\download.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\haha.jfif",
+      "PackagePath": "staticwebassets\\images\\Hinh\\haha.jfif"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\hihi.jpg",
+      "PackagePath": "staticwebassets\\images\\Hinh\\hihi.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\images.jpg",
+      "PackagePath": "staticwebassets\\images\\Hinh\\images.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\images1222.jfif",
+      "PackagePath": "staticwebassets\\images\\Hinh\\images1222.jfif"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\laptop.jpg",
+      "PackagePath": "staticwebassets\\images\\Hinh\\laptop.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\null.png",
+      "PackagePath": "staticwebassets\\images\\Hinh\\null.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Hinh\\tulanh.jpg",
+      "PackagePath": "staticwebassets\\images\\Hinh\\tulanh.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Loais\\30days_Postman.png",
+      "PackagePath": "staticwebassets\\images\\Loais\\30days_Postman.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Loais\\Wukong.jpg",
+      "PackagePath": "staticwebassets\\images\\Loais\\Wukong.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Loais\\apple1.jpg",
+      "PackagePath": "staticwebassets\\images\\Loais\\apple1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Loais\\dienthoai_category.jpg",
+      "PackagePath": "staticwebassets\\images\\Loais\\dienthoai_category.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Loais\\laptop.jpg",
+      "PackagePath": "staticwebassets\\images\\Loais\\laptop.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Loais\\maytinhbang.jpg",
+      "PackagePath": "staticwebassets\\images\\Loais\\maytinhbang.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Loais\\tulanh.jpg",
+      "PackagePath": "staticwebassets\\images\\Loais\\tulanh.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\Loais\\tvLG.jpg",
+      "PackagePath": "staticwebassets\\images\\Loais\\tvLG.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\NhaCungCaps\\30days_Postman_2.jpg",
+      "PackagePath": "staticwebassets\\images\\NhaCungCaps\\30days_Postman_2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\NhaCungCaps\\Apple_logo_black.svg.png",
+      "PackagePath": "staticwebassets\\images\\NhaCungCaps\\Apple_logo_black.svg.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\NhaCungCaps\\Seamen.jpg",
+      "PackagePath": "staticwebassets\\images\\NhaCungCaps\\Seamen.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\NhaCungCaps\\hehe.jpg",
+      "PackagePath": "staticwebassets\\images\\NhaCungCaps\\hehe.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\NhaCungCaps\\images1222.jfif",
+      "PackagePath": "staticwebassets\\images\\NhaCungCaps\\images1222.jfif"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\NhaCungCaps\\laptop.jpg",
+      "PackagePath": "staticwebassets\\images\\NhaCungCaps\\laptop.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\NhaCungCaps\\motorola.jpg",
+      "PackagePath": "staticwebassets\\images\\NhaCungCaps\\motorola.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\NhaCungCaps\\nokia.jpg",
+      "PackagePath": "staticwebassets\\images\\NhaCungCaps\\nokia.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\NhaCungCaps\\samsung.jpg",
+      "PackagePath": "staticwebassets\\images\\NhaCungCaps\\samsung.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\NhaCungCaps\\tvLG.jpg",
+      "PackagePath": "staticwebassets\\images\\NhaCungCaps\\tvLG.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\banner-image.png",
+      "PackagePath": "staticwebassets\\images\\banner-image.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\cart-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\cart-item1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\cart-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\cart-item2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\commentor-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\commentor-item1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\commentor-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\commentor-item2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\commentor-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\commentor-item3.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\dhl.png",
+      "PackagePath": "staticwebassets\\images\\dhl.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\insta-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\insta-item1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\insta-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\insta-item2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\insta-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\insta-item3.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\insta-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\insta-item4.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\insta-item5.jpg",
+      "PackagePath": "staticwebassets\\images\\insta-item5.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\main-logo.png",
+      "PackagePath": "staticwebassets\\images\\main-logo.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\mastercard.jpg",
+      "PackagePath": "staticwebassets\\images\\mastercard.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\paypal.jpg",
+      "PackagePath": "staticwebassets\\images\\paypal.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-image.jpg",
+      "PackagePath": "staticwebassets\\images\\post-image.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-image1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item3.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item4.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-item5.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item5.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-item6.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item6.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-item7.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item7.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-item8.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item8.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-item9.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item9.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-small-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-small-image1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-small-image2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-small-image2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\post-small-image3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-small-image3.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\product-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\product-item10.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item10.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\product-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\product-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item3.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\product-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item4.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\product-item5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item5.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\product-item6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item6.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\product-item7.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item7.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\product-item8.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item8.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\product-item9.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item9.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\review-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\review-item1.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\review-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\review-item2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\shippingcard.png",
+      "PackagePath": "staticwebassets\\images\\shippingcard.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\singel-product-item.jpg",
+      "PackagePath": "staticwebassets\\images\\singel-product-item.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\single-image1.png",
+      "PackagePath": "staticwebassets\\images\\single-image1.png"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\single-image2.jpg",
+      "PackagePath": "staticwebassets\\images\\single-image2.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\single-image3.jpg",
+      "PackagePath": "staticwebassets\\images\\single-image3.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\single-post.jpg",
+      "PackagePath": "staticwebassets\\images\\single-post.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\images\\visa.jpg",
+      "PackagePath": "staticwebassets\\images\\visa.jpg"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\SA of Ecommerce\\AgileCommercee\\AgileCommercee\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AgileCommercee.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AgileCommercee.props",
+      "PackagePath": "build\\AgileCommercee.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AgileCommercee.props",
+      "PackagePath": "buildMultiTargeting\\AgileCommercee.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AgileCommercee.props",
+      "PackagePath": "buildTransitive\\AgileCommercee.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
